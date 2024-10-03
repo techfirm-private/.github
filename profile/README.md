@@ -1,12 +1,10 @@
-## Hi there 👋
+# テックファーム株式会社
 
-<!--
+テックファーム株式会社は、革新的なITソリューションを提供する企業です。私たちは、クライアントのビジネスニーズに応じたカスタマイズされたソフトウェア開発、システムインテグレーション、コンサルティングサービスを提供しています。
+テックファーム株式会社は、常にお客様の成功を第一に考え、最高のITソリューションを提供することを目指しています。
 
-**Here are some ideas to get you started:**
+## 主なサービス
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+- **ソフトウェア開発**: ウェブアプリケーション、モバイルアプリケーション、クラウドソリューションの開発
+- **システムインテグレーション**: 既存システムとの統合、新しいシステムの導入支援
+- **コンサルティング**: IT戦略の立案、プロジェクトマネジメント、技術サポート
